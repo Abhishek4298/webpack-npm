@@ -3,6 +3,8 @@
 writing modern javascript that all browser can understand.
 -features include minification, asset mangement.
 
+- You can't use es6 syntax(let const) here directly for this you have use babel-loader and setup in configuration(Future update)
+
 # webpack-dev-server
 
 webpack-dev-server is a convenient package for development. Once configured, we can launch a local server to serve our files. (localhost:8080)
